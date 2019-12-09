@@ -1,0 +1,31 @@
+.main{
+    background-image: url("imagen/photography-of-roadway-during-dusk-1034662.jpg");
+    background-position: center;
+    background-size: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.presentacion{
+    padding: 80px;
+}
+
+.foto {
+    margin:auto;
+    height: 250px;
+    width: 250px;
+    background-image: url("imagen/foto1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #ffffff;
+}
+
+.name {
+    font-family: 'Nanum Myeongjo', serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+}
